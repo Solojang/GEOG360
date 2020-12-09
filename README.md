@@ -15,3 +15,9 @@
 - What is the area of each land category for each time point?
 - How much did each land category lost and gained over each time interval?
 - Among the gross changes of each category, which land cover types did it gained from / lost to?
+- How do we know the pattern of changes? 
+
+## Terms:
+- Gain Once: Gain of category in the corresponding time interval that did not lose subsequently.
+- Loss Once:  Loss of category in the corresponding time interval that did not gain subsequently. But can transit to other categories. 
+- Temporary: Loss or Gain of category in the corresponding time interval that gained or loses again subsequently. 
