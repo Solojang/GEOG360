@@ -1,4 +1,4 @@
-# Summarizing time-series land cover change using Mapbiomas data
+# Summarizing temporal differences in time-series land cover maps using MapBiomas data
 
 ### Author: Aiyin Zhang, Jiang He, Li Xi
 ### Email: AiZhang@clarku.edu, Jianhe@clarku.edu, LXi@clarku.edu
