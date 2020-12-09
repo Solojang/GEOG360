@@ -7,8 +7,8 @@
 ### Reference: Pontius, R. G., Krithivasan, R., Sauls, L., Yan, Y., & Zhang, Y. (2017). Methods to summarize change among land categories across time intervals. Journal of Land Use Science, 12(4), 218–230. https://doi.org/10.1080/1747423X.2017.1338768
 
 ## Objective:
-### We present methods to summarize temporal difference in a time series of land changes
-- To develop methods that can summarize critical temporal differences from time-series land cover maps.
+### We present methods to summarize temporal difference in a time series of land categories
+- To develop methods that can summarize critical temporal differences of land categories from time-series land cover maps.
 - To create maps and graphs that are both innovative and able to effectively communicate important information that are helpful to our intended audiences beyond this semester, including the MapBiomas team, and potentially, remote sensing specialists and land change scientists. 
 
 ## Informations about Graph:
