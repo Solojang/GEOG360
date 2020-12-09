@@ -11,7 +11,7 @@
 - To develop methods that can summarize critical land change information from time-series land cover maps.
 - To create maps and graphs that are both innovative and able to effectively communicate important information that are helpful to our intended audiences beyond this semester, including the MapBiomas team, and potentially, remote sensing specialists and land change scientists. 
 
-## Informations about Graph:
+## Information about Graph:
 ### Our graphs are developed to answer the following questions:
 - Throughout the time series, what is the most frequently appearing land category in each location?
 - What is the area of each land category at each time point?
