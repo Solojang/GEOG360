@@ -15,6 +15,7 @@
 - What is the area of each land category for each time point?
 - How much did each land category lost and gained over each time interval?
 - Among the gross changes of each category, which land cover types did it gained from / lost to?
+- Among the gross changes of each category, how much of them were temporary changes and how much of them did not lose or gain again?
 - How do we know the pattern of changes? 
 
 ## Terms:
