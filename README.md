@@ -17,5 +17,4 @@
 - What is the area of each land category at each time point?
 - How much did each land category lost and gained during each time interval?
 - A particular category lost to and gained from which other categories?
-- A particular category lost to and gained from which other categories?
 - What is the amount of change over various time steps?
