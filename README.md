@@ -1,17 +1,14 @@
 # GEOG360 
-##Author: Aiyin Zhang, Jiang He, Li Xi
 
-##Email: 
+## Author: Aiyin Zhang, Jiang He, Li Xi
 
-###Jianhe@clarku.edu
+## Email: 
+### Jianhe@clarku.edu
+### AiZhang@clarku.edu
+### LXi@clarku.edu
 
-###AiZhang@clarku.edu
+## Date: 2020.12.9
 
-###LXi@clarku.edu
+## Data: The data we use is download from [mapbiosmas](https://mapbiomas.org/download).
 
-
-##Date: 2020.12.9
-
-##Data: The data we use is download from [mapbiosmas](https://mapbiomas.org/download).
-
-##Description:
+## Description:
