@@ -24,7 +24,3 @@
 - Gain Once: Gain of category in the corresponding time interval that did not lose subsequently.
 - Loss Once:  Loss of category in the corresponding time interval that did not gain subsequently. But can transit to other categories. 
 - Temporary: Loss or Gain of category in the corresponding time interval that gained or loses again subsequently. 
-- Persistence: Incidents = 0 implies States = 1 and means a pixel persists as a single category across all time intervals.
-- One Incident: Incidents = 1 implies States = 2 and means a pixel experiences exactly one change.
-- Toggle：Incidents > 1 and States = 2 means a pixel toggles back and forth between two categories, as can occur in cycles of growth and harvest.
-- Multiple States:  States > 2 implies Incidents > 1 and means a pixel experiences more than two categories.
