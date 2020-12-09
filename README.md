@@ -13,11 +13,12 @@
 
 ## Informations about Graph:
 ### Our graphs are developed to answer the following questions:
-- What is the area of each land category for each time point?
-- How much did each land category lost and gained over each time interval?
-- Among the gross changes of each category, which land cover types did it gained from / lost to?
-- Among the gross changes of each category, how much of them were temporary changes and how much of them did not lose or gain again?
-- How do we know the pattern of changes? 
+- Throughout the time series, what is the most frequently appearing land category in each location?
+- What is the area of each land category at each time point?
+- How much did each land category lost and gained during each time interval?
+- A particular category lost to and gained from which other categories?
+- A particular category lost to and gained from which other categories?
+- What is the amount of change over various time steps?
 
 ## Terms:
 - Gain Once: Gain of category in the corresponding time interval that did not lose subsequently.
