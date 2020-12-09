@@ -19,8 +19,3 @@
 - A particular category lost to and gained from which other categories?
 - A particular category lost to and gained from which other categories?
 - What is the amount of change over various time steps?
-
-## Terms:
-- Gain Once: Gain of category in the corresponding time interval that did not lose subsequently.
-- Loss Once:  Loss of category in the corresponding time interval that did not gain subsequently. But can transit to other categories. 
-- Temporary: Loss or Gain of category in the corresponding time interval that gained or loses again subsequently. 
