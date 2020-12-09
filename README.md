@@ -1,9 +1,9 @@
-# Summarizing time-series land cover change using Mapbiomas data
+# Summarizing temporal differences in time-series land cover maps using MapBiomas data
 
-### Author: Aiyin Zhang, Jiang He, Li Xi
+### Authors: Aiyin Zhang, Jiang He, Li Xi
 ### Email: AiZhang@clarku.edu, Jianhe@clarku.edu, LXi@clarku.edu
 ### Date: 2020.12.9
-### Data: The data we use is download from [MapBiomas](https://mapbiomas.org/download).
+### Data: The data we use is downloaded from [MapBiomas](https://mapbiomas.org/download).
 ### Reference: Pontius, R. G., Krithivasan, R., Sauls, L., Yan, Y., & Zhang, Y. (2017). Methods to summarize change among land categories across time intervals. Journal of Land Use Science, 12(4), 218–230. https://doi.org/10.1080/1747423X.2017.1338768
 
 ## Objective:
